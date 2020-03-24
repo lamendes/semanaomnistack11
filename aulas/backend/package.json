@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lucas Assis Mendes",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",

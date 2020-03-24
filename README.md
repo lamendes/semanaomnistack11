@@ -18,9 +18,9 @@
 
 <h1 align="left">Projeto:</h1>
 <p align="center">
-<!--  <a href="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png">
-    <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo DOE" width="120">
-  </a>-->
+<a href="https://ap.imagensbrasil.org/images/2020/03/24/logoBeTheHero.png">
+    <img src="https://ap.imagensbrasil.org/images/2020/03/24/logoBeTheHero.png" alt="Logo DOE" width="120">
+  </a>
   <h3 align="center">Be The Hero</h3>
 </p>
 
@@ -51,6 +51,7 @@ Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeir
 
 -   [Expo][expo]
 -   [Express][express]
+-   [Insomnia][insomnia]
 -   [NodeJS][nodejs]
 -   [Nodemon][nodemon]
 -   [NPM][npm]
@@ -61,11 +62,11 @@ Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeir
 
 ### Preview
 
-<!--<p align="center"> 
-  <a href="https://user-images.githubusercontent.com/17535388/74982524-0d271b80-5413-11ea-8888-d82c71267815.png"> 
-    <img src="https://user-images.githubusercontent.com/17535388/74982524-0d271b80-5413-11ea-8888-d82c71267815.png" alt="Preview"> 
+<p align="center"> 
+  <a href="https://ap.imagensbrasil.org/images/2020/03/24/previewProjeto1.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/03/24/previewProjeto1.png" alt="Preview"> 
   </a> 
-</p>-->
+</p>
 
 <!-- LICENSE -->
 
@@ -91,3 +92,4 @@ MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes 🚀
 [react]: https://pt-br.reactjs.org
 [reactnative]: https://reactnative.dev
 [npm]: https://www.npmjs.com
+[insomnia]: https://insomnia.rest
