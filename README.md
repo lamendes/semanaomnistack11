@@ -45,7 +45,7 @@
 
 ## Sobre o Projeto
 
-Este projeto tem por objetivo criar uma aplicação, para ajudar financeiramente ONG's.
+Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeiramente.
 
 ### Feito Com
 
@@ -53,9 +53,9 @@ Este projeto tem por objetivo criar uma aplicação, para ajudar financeiramente
 -   [Express][express]
 -   [NodeJS][nodejs]
 -   [Nodemon][nodemon]
--   [NPM] [npm]
+-   [NPM][npm]
 -   [React][react]
--   [React Native] [reactnative]
+-   [React Native][reactnative]
 -   [Yarn][yarn]
 -   [VS Code][vc]
 
