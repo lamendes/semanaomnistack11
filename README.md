@@ -74,7 +74,7 @@ Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeir
 
 ## Instalação
 
-Para clonar e executar está aplicação, você precisará do [Git] (https://git-scm.com), [NodeJS v12.16.1] [nodejs] ou superior + [npm v6.13.4] [npm] ou superior instalado no seu computador. No seu terminal rode:
+Para clonar e executar está aplicação, você precisará do [Git](https://git-scm.com), [NodeJS v12.16.1][nodejs] ou superior + [npm v6.13.4][npm] ou superior instalado no seu computador. No seu terminal rode:
 
 ```bash
 # Clonando o repositório
