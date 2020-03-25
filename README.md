@@ -38,6 +38,7 @@
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Feito Com](#feito-com)
   - [Preview](#preview)
+- [Instalação](#instala%C3%A7%C3%A3o)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
@@ -49,16 +50,19 @@ Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeir
 
 ### Feito Com
 
+-   [CORS][cors]
 -   [Expo][expo]
 -   [Express][express]
 -   [Insomnia][insomnia]
+-   [KNEX.JS][knexjs]
 -   [NodeJS][nodejs]
 -   [Nodemon][nodemon]
--   [NPM][npm]
+-   [npm][npm]
 -   [React][react]
 -   [React Native][reactnative]
--   [Yarn][yarn]
+-   [SQLite][sqlite]
 -   [VS Code][vc]
+-   [Yarn][yarn]
 
 ### Preview
 
@@ -68,8 +72,22 @@ Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeir
   </a> 
 </p>
 
-<!-- LICENSE -->
+## Instalação
 
+Para clonar e executar está aplicação, você precisará do [Git] (https://git-scm.com), [NodeJS v12.16.1] [nodejs] ou superior + [npm v6.13.4] [npm] ou superior instalado no seu computador. No seu terminal rode:
+
+```bash
+# Clonando o repositório
+$ git clone https://github.com/lamendes/semanaomnistack11.git semanaomnistack11
+
+# Ir até repositório
+$ cd semanaomnistack11
+
+# Instalando as dependências
+$ npm install
+```
+
+<!-- LICENSE -->
 ## Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
@@ -93,3 +111,6 @@ MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes 🚀
 [reactnative]: https://reactnative.dev
 [npm]: https://www.npmjs.com
 [insomnia]: https://insomnia.rest
+[sqlite]: https://www.sqlite.org
+[knexjs]: http://knexjs.org
+[cors]: https://www.npmjs.com/package/cors
