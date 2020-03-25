@@ -46,7 +46,8 @@
 
 ## Sobre o Projeto
 
-Este projeto tem por objetivo criar uma aplicação, para ajudar ONG's financeiramente.
+Este projeto tem por objetivo criar uma aplicação WEB/Mobile para ajudar financeiramente as ONG's cadastradas.
+
 
 ### Feito Com
 
