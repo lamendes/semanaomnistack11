@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://rocketseat.com.br/week/inscricao/11.0">
-    <img src="https://ap.imagensbrasil.org/images/2020/03/24/logoOmnistack11.png" alt="Logo">
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/Omnistack_11.png" alt="Logo" width="300">
   </a>
 </p>
 
@@ -18,10 +18,10 @@
 
 <h1 align="left">Projeto:</h1>
 <p align="center">
-<a href="https://ap.imagensbrasil.org/images/2020/03/24/logoBeTheHero.png">
-    <img src="https://ap.imagensbrasil.org/images/2020/03/24/logoBeTheHero.png" alt="Logo DOE" width="120">
+<a href="https://ap.imagensbrasil.org/images/2020/04/06/logo3x.png">
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/logo3x.png" alt="Be The Hero">
   </a>
-  <h3 align="center">Be The Hero</h3>
+  <!-- <h3 align="center">Be The Hero</h3> -->
 </p>
 
 <p align="center"> 
@@ -54,11 +54,13 @@ Este projeto tem por objetivo criar uma aplicação WEB/Mobile para ajudar finan
 -   [CORS][cors]
 -   [Expo][expo]
 -   [Express][express]
+-   [ESlint][eslint]
 -   [Insomnia][insomnia]
 -   [KNEX.JS][knexjs]
 -   [NodeJS][nodejs]
 -   [Nodemon][nodemon]
 -   [npm][npm]
+-   [Prettier][prettier]
 -   [React][react]
 -   [React Native][reactnative]
 -   [SQLite][sqlite]
@@ -67,9 +69,34 @@ Este projeto tem por objetivo criar uma aplicação WEB/Mobile para ajudar finan
 
 ### Preview
 
+Front-end:
+
 <p align="center"> 
-  <a href="https://ap.imagensbrasil.org/images/2020/03/24/previewProjeto1.png"> 
-    <img src="https://ap.imagensbrasil.org/images/2020/03/24/previewProjeto1.png" alt="Preview"> 
+  <a href="https://ap.imagensbrasil.org/images/2020/03/28/logon1.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/logon1.png" alt="Preview"> 
+  </a> 
+  <a href="https://ap.imagensbrasil.org/images/2020/03/28/register.png.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/register.png" alt="Preview"> 
+  </a> 
+  <a href="https://ap.imagensbrasil.org/images/2020/03/28/profile.png.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/profile.png" alt="Preview"> 
+  </a> 
+  <a href="https://ap.imagensbrasil.org/images/2020/03/28/incident.png.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/incident.png" alt="Preview"> 
+  </a> 
+</p>
+
+Mobile
+
+<p align="center"> 
+  <a href="https://ap.imagensbrasil.org/images/2020/04/06/splash.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/splash.png" alt="Preview"> 
+  </a> 
+  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png" alt="Preview"> 
+  </a> 
+  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" alt="Preview"> 
   </a> 
 </p>
 
@@ -115,3 +142,5 @@ MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes 🚀
 [sqlite]: https://www.sqlite.org
 [knexjs]: http://knexjs.org
 [cors]: https://www.npmjs.com/package/cors
+[prettier]: https://prettier.io
+[eslint]: https://eslint.org
