@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "Lucas Assis Mendes",
   "license": "MIT",
   "dependencies": {
+    "celebrate": "^12.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.20.13",
