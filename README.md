@@ -1,18 +1,19 @@
 <!-- PROJECT LOGO -->
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
+
+<div align="center">
+  <a href="https://rocketseat.com.br" >
+    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo" align="left">
   </a>
-</p>
+
+  <a href="https://rocketseat.com.br/week/inscricao/11.0">
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/Omnistack_11.png" alt="Logo" width="300" align="right">
+  </a>
+</div>
 
 <br />
-
-<p align="center">
-  <a href="https://rocketseat.com.br/week/inscricao/11.0">
-    <img src="https://ap.imagensbrasil.org/images/2020/03/28/Omnistack_11.png" alt="Logo" width="300">
-  </a>
-</p>
-
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -75,7 +76,7 @@ Front-end:
   <a href="https://ap.imagensbrasil.org/images/2020/03/28/logon1.png"> 
     <img src="https://ap.imagensbrasil.org/images/2020/03/28/logon1.png" alt="Preview"> 
   </a> 
-  <a href="https://ap.imagensbrasil.org/images/2020/03/28/register.png.png"> 
+  <a href="https://ap.imagensbrasil.org/images/2020/03/28/register.png"> 
     <img src="https://ap.imagensbrasil.org/images/2020/03/28/register.png" alt="Preview"> 
   </a> 
   <a href="https://ap.imagensbrasil.org/images/2020/03/28/profile.png.png"> 
@@ -88,17 +89,17 @@ Front-end:
 
 Mobile
 
-<p align="center"> 
-  <a href="https://ap.imagensbrasil.org/images/2020/04/06/splash.png"> 
-    <img src="https://ap.imagensbrasil.org/images/2020/04/06/splash.png" alt="Preview"> 
+<div class="special-class" align="center">
+  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png" alt="Preview" width="300"> 
   </a> 
   <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png"> 
-    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png" alt="Preview"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png" alt="Preview" width="300"> 
   </a> 
-  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png"> 
-    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" alt="Preview"> 
+  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" > 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" alt="Preview" width="300"> 
   </a> 
-</p>
+</div>
 
 ## Instalação
 
