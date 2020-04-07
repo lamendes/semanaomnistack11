@@ -1,19 +1,17 @@
 <!-- PROJECT LOGO -->
-
-<div align="center">
+<br />
+<p align="center">  
   <a href="https://rocketseat.com.br" >
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo" align="left">
+    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
   </a>
-
+<br />
+<br />
+<p align="center">
   <a href="https://rocketseat.com.br/week/inscricao/11.0">
-    <img src="https://ap.imagensbrasil.org/images/2020/03/28/Omnistack_11.png" alt="Logo" width="300" align="right">
+    <img src="https://ap.imagensbrasil.org/images/2020/03/28/Omnistack_11.png" alt="Logo" width="300">
   </a>
-</div>
-
-<br />
-<br />
-<br />
-<br />
+ </p>
+ </p>
 <br />
 <br />
 
@@ -93,11 +91,11 @@ Mobile
   <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png"> 
     <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png" alt="Preview" width="300"> 
   </a> 
-  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png"> 
-    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png" alt="Preview" width="300"> 
-  </a> 
   <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" > 
     <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" alt="Preview" width="300"> 
+  </a> 
+   <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png"> 
+    <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.40.png" alt="Preview" width="300"> 
   </a> 
 </div>
 
