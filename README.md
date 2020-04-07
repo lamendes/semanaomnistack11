@@ -4,6 +4,7 @@
     	<img src="https://ap.imagensbrasil.org/images/2020/04/06/logo3x.png" alt="Be The Hero">
   	</a>
   	<br />
+  	  	<br />
   	<p align="center">  
   		<a href="https://rocketseat.com.br" >
     		<img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo" width="200" align="center">
@@ -15,23 +16,22 @@
   		</a>
 	</p>
  </p>
-
-<p align="center">
-<!--<a href="https://ap.imagensbrasil.org/images/2020/04/06/logo3x.png">
-    <img src="https://ap.imagensbrasil.org/images/2020/04/06/logo3x.png" alt="Be The Hero">
-  </a>
-  <h3 align="center">Be The Hero</h3> -->
-</p>
-
+  	<br />
 <p align="center"> 
-  <a href="https://opensource.org/licenses/MIT"> 
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
-  </a> 
+   <img src="https://img.shields.io/github/languages/count/lamendes/semanaomnistack11" alt="Languages">
+	<img src="https://img.shields.io/github/repo-size/lamendes/semanaomnistack11 " alt="Repo Size"> 
+  	<a href="https://github.com/lamendes/semanaomnistack11/commits/master"> 
+   		<img src="https://img.shields.io/github/last-commit/lamendes/semanaomnistack11" alt="Last Commit"> 
+ 	</a> 
+ 	<img src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361%22" alt="Languages">
+  	<a href="https://opensource.org/licenses/MIT"> 
+   		<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
+  	</a> 
 </p>
 
 <!-- TABLE OF CONTENTS -->
 
-## 🗂 Tabela de Conteúdo
+## 🗂 Conteúdo
 
 <!--- [📝 Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)-->
 - [📋 Sobre o Projeto](#sobre-o-projeto)
@@ -45,7 +45,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto, desenvolvido na Semana OmniStack 11, ministrada pelo @diego3g da @Rocketseat e tem por objetivo criar uma aplicação WEB/Mobile para ajudar financeiramente as ONG's cadastradas.
+Este projeto, desenvolvido na Semana OmniStack 11, ministrada pelo [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](https://github.com/Rocketseat) e tem por objetivo criar uma aplicação WEB/Mobile para ajudar financeiramente as ONG's cadastradas.
 
 ### 🚀 Feito Com
 
@@ -117,13 +117,13 @@ $ npm install
 <!-- LICENSE -->
 ## ⚖️ Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
 <!-- CONTACT -->
 
 ## 📫 Contato
 
-MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes 🚀
+MDKTech - [**lucas@mdktech.com.br**](mailto:lucas@mdktech.com.br) - by Lucas Mendes 🚀
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
