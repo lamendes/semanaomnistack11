@@ -33,21 +33,20 @@
 
 ## 🗂 Conteúdo
 
-<!--- [📝 Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)-->
-- [📋 Sobre o Projeto](#sobre-o-projeto)
-  - [🚀 Feito Com](#feito-com)
-  - [📷 Preview](#preview)
-- [📦 Instalação](#instala%C3%A7%C3%A3o)
-- [⚖️ Licença](#licen%C3%A7a)
-- [📫 Contato](#contato)
+- 📝 [Tabela de Conteúdo](#-tabela-de-conte%C3%BAdo)
+- 📋 [Sobre o Projeto](#-Sobre-o-Projeto)
+  - 🚀 [Feito Com](#-feito-com)
+  - 📷 [Preview](#-preview)
+- 📦 [Instalação](#-instalação)
+- ⚖️ [Licença](#%EF%B8%8F-licença)
+- 📫 [Contato](#-contato)
 
 <!-- ABOUT THE PROJECT -->
 
-## 📋 Sobre o Projeto
-
+##  Sobre o Projeto
 Este projeto, desenvolvido na Semana OmniStack 11, que foi ministrado pelo [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](https://github.com/Rocketseat) tem por objetivo criar uma aplicação WEB/Mobile para ajudar financeiramente as ONG's cadastradas.
 
-### 🚀 Feito Com
+### Feito Com
 
 -   [Celebrate][celebrate]
 -   [CORS][cors]
@@ -66,7 +65,7 @@ Este projeto, desenvolvido na Semana OmniStack 11, que foi ministrado pelo [Dieg
 -   [VS Code][vc]
 -   [Yarn][yarn]
 
-### 📷 Preview
+## 📷 Preview
 
 ##### 💻 Front-end:
 
@@ -85,10 +84,10 @@ Este projeto, desenvolvido na Semana OmniStack 11, que foi ministrado pelo [Dieg
   </a> 
 </p>
 
-##### 📱 Mobile
+##### 📱 Mobile:
 
 <div class="special-class" align="center">
-  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png"> 
+  <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png" > 
     <img src="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.31.png" alt="Preview" width="300"> 
   </a> 
   <a href="https://ap.imagensbrasil.org/images/2020/04/06/Simulator-Screen-Shot---iPhone-11---2020-04-06-at-17.23.37.png" > 
