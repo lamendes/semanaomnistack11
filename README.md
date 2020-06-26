@@ -110,7 +110,7 @@ $ git clone https://github.com/lamendes/semanaomnistack11.git semanaomnistack11
 ```bash
 # Backend
 
-# Ir até repositório
+# Ir até o repositório
 $ cd semanaomnistack11/aulas/backend
 
 # Instalando as dependências
@@ -120,7 +120,7 @@ $ yarn ou npm install
 ```bash
 # Frontend
 
-# Ir até repositório
+# Ir até o repositório
 $ cd semanaomnistack11/aulas/frontend
 
 # Instalando as dependências
@@ -133,7 +133,7 @@ $ yarn start ou npm start
 ```bash
 # Mobile
 
-# Ir até repositório
+# Ir até o repositório
 $ cd semanaomnistack11/aulas/mobile
 
 # Instalando as dependências
