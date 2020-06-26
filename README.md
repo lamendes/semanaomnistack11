@@ -105,12 +105,42 @@ Para clonar e executar está aplicação, você precisará do [Git](https://git-
 ```bash
 # Clonando o repositório
 $ git clone https://github.com/lamendes/semanaomnistack11.git semanaomnistack11
+```
+
+```bash
+# Backend
 
 # Ir até repositório
-$ cd semanaomnistack11
+$ cd semanaomnistack11/aulas/backend
 
 # Instalando as dependências
-$ npm install
+$ yarn ou npm install
+```
+
+```bash
+# Frontend
+
+# Ir até repositório
+$ cd semanaomnistack11/aulas/frontend
+
+# Instalando as dependências
+$ yarn ou npm install
+
+# Rodar App Web
+$ yarn start ou npm start
+```
+
+```bash
+# Mobile
+
+# Ir até repositório
+$ cd semanaomnistack11/aulas/mobile
+
+# Instalando as dependências
+$ expo install
+
+# Rodar App
+$ expo start
 ```
 
 <!-- LICENSE -->
