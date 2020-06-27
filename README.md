@@ -33,8 +33,8 @@
 
 ## 🗂 Conteúdo
 
-- 📝 [Tabela de Conteúdo](#-tabela-de-conte%C3%BAdo)
-- 📋 [Sobre o Projeto](#-Sobre-o-Projeto)
+- 📝 [Tabela de Conteúdo](#-tabela-de-conteúdo)
+- 📋 [Sobre o Projeto](#-sobre-o-projeto)
   - 🚀 [Feito Com](#-feito-com)
   - 📷 [Preview](#-preview)
 - 📦 [Instalação](#-instalação)
@@ -43,10 +43,10 @@
 
 <!-- ABOUT THE PROJECT -->
 
-##  Sobre o Projeto
+## 📋 Sobre o Projeto
 Este projeto, desenvolvido na Semana OmniStack 11, que foi ministrado pelo [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](https://github.com/Rocketseat) tem por objetivo criar uma aplicação WEB/Mobile para ajudar financeiramente as ONG's cadastradas.
 
-### Feito Com
+### 🚀 Feito Com
 
 -   [Celebrate][celebrate]
 -   [CORS][cors]
